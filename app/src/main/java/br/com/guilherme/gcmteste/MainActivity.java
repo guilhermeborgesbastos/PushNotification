@@ -16,16 +16,6 @@ import android.util.Log;
 import android.widget.TextView;
 import android.widget.Toast;
 
-/*
-//DEEVO
-AI KEY: AIzaSyBKNVr9lOO3822Ja1fyzZDzOQpI-oaqezw
-Sender ID: 489640997668
-
-API KEY : AIzaSyD0mfKoPF_NmrabyMhI9cM7O5GgxoL1a80
-Sender ID: 463797562795
-*/
-
-
 public class MainActivity extends Activity {
 	public static final int PLAY_SERVICES_RESOLUTION_REQUEST = 9000;
 	public static final String TAG = "Script";
